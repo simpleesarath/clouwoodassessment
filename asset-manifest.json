@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clouwoodassessment/static/css/main.c3e513f0.css",
+    "main.js": "/clouwoodassessment/static/js/main.eba51e6f.js",
+    "index.html": "/clouwoodassessment/index.html",
+    "main.c3e513f0.css.map": "/clouwoodassessment/static/css/main.c3e513f0.css.map",
+    "main.eba51e6f.js.map": "/clouwoodassessment/static/js/main.eba51e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e513f0.css",
+    "static/js/main.eba51e6f.js"
+  ]
+}
